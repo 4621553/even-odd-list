@@ -3,3 +3,8 @@ button {
   width: 50px;
   padding-top: 100px;
 }
+
+body {
+ text-align: center;
+ list-style-type: none; 
+}
